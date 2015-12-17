@@ -1,8 +1,8 @@
 Título (30)
-===========
+appBase_ejemplo
 
 Descripción breve (80)
-======================
+rma
 
 Descripción completa (4000)
 ===========================
