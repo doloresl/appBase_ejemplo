@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" ?>
     	<widget xmlns   = "http://www.w3.org/ns/widgets"
 		xmlns:gap   = "http://phonegap.com/ns/1.0"
-		id          = "es.juntadeandalucia.mapea.cdau"
+		id          = "es.juntadeandalucia.rma"
 		versionCode = "100" 
 		version     = "1.0.0" >
 
-	<name>appBase</name>
+	<name>appBase_ejemplo</name>
 	<description>
-		appBase
+		appBase_ejemplo
 	</description>
-	<author email="l-dirsigc.chap@juntadeandalucia.es" href="http://www.juntadeandalucia.es">
+	<author email="dolores.lopez.ext@juntadeandalucia.es" href="http://www.juntadeandalucia.es">
 		Junta de Andalucía
 	</author>
 	<content src="index.html" />
